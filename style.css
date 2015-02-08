@@ -1,6 +1,15 @@
 .container{
-	width:1000px;
-	margin:0 auto;
+	width: 900px;
+  margin: 0 auto;
+}
+
+.bio {
+	width: 20%;
+ 	float:left;
+}
+.me {
+	width:200px;
+	float:left;
 }
 
 header{
@@ -20,7 +29,7 @@ nav {
     margin-left: 75px;
 }
 
-ul.nav{
+ul.nav {
   list-style: none;
   padding: 10px;
    }
@@ -29,5 +38,8 @@ ul.nav li{
   display: inline; 
   margin-right: 10px
 }
+
+
+
 
 
