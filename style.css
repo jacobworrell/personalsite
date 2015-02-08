@@ -1,0 +1,33 @@
+.container{
+	width:1000px;
+	margin:0 auto;
+}
+
+header{
+	height:10%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+h1 {
+    display: inline-block;
+    margin-top: 0.321em;
+    font-family:cursive;
+}
+
+nav {
+    display: inline-block;
+    vertical-align: center;
+    margin-left: 75px;
+}
+
+ul.nav{
+  list-style: none;
+  padding: 10px;
+   }
+
+ul.nav li{
+  display: inline; 
+  margin-right: 10px
+}
+
+
