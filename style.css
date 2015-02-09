@@ -21,6 +21,10 @@
   float:left;
 }
 
+.blog{
+  width:85%;
+}
+
 header{
 	height:10%;
 	margin-top: 20px;
