@@ -4,12 +4,21 @@
 }
 
 .bio {
-	width: 20%;
+	width: 65%;
+  margin-top: 15px;
  	float:left;
 }
 .me {
 	width:200px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+  border-radius:50%;
 	float:left;
+}
+.social_container{
+  width:25%;
+  margin-left:50px;
+  float:left;
 }
 
 header{
@@ -21,6 +30,7 @@ h1 {
     display: inline-block;
     margin-top: 0.321em;
     font-family:cursive;
+    font-size: 42px;
 }
 
 nav {
@@ -36,10 +46,17 @@ ul.nav {
 
 ul.nav li{
   display: inline; 
-  margin-right: 10px
+  margin-right: 10px;
+  font-size: 24px
 }
 
+ul.published li{
+  margin-top:10px;
+}
 
-
+p {
+  font-family: arial;
+  padding: 2px;
+}
 
 
